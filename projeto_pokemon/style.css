@@ -1,0 +1,36 @@
+p{
+    text-align: center;
+}
+img{
+    width: 260px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+#I{
+    margin: 15px;
+    background-color: #FFD900;
+    border-radius: 10px;
+    border: 30px;
+    width: 280px;
+    padding: 5px;
+}
+#ÇÇI{
+    text-align: left;
+    margin: 4px;
+}
+
+
+#ÇI{
+    margin: 15px;
+    background-color: #FAE25B;
+    border-radius: 10px;
+    width: 230px;
+    padding: 10px;
+        border: 2px solid#DFBD00;
+
+  }
+
+
+
