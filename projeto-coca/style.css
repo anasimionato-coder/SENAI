@@ -40,7 +40,7 @@
  }
  .hero{
  width:100%;
- background-image: url(Assets/img-02.png);
+ background-image: url(assets/);
  height: 30vw;
  background-size: cover;
  background-position: center;
@@ -92,7 +92,7 @@ body{
     
     width: 980px;
     height: 400px;
-    background-image: url(Assets/img-01.png);
+    background-image: url(assets/);
     background-size: cover;
     margin: 60px auto ;
     padding: 60px 40px;
@@ -121,29 +121,54 @@ body{
     border-radius: 30px;
     text-decoration: none;
  }
+ 
+
  .footer{
-    padding: 40px 120px;
     background-color: black;
+    padding: 40px 120px;
     display: flex;
     justify-content: space-between;
+
+
+
  }
-.social a{ 
+
+
+.social{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+
+.social a { 
     width: 32px;
     height: 32px;
-
 }
-.insta a{
-    background-image: url(Assets/img-04.png);
+.insta {
+    background-image: url(assets/);
+    background-size: contain;
+    background-position: center;
 }
-
 .linkdin{
-    background-image: url(Assets/img-11.png);
+    background-image: url(assets/);
+     background-size: contain;
+    background-position: center;
+
 }
 .facebook{
-    background-image:url(Assets/img-03.png) ;
+    background-image:url(assets/) ;
+     background-size: contain;
+    background-position: center;
+
 }
 
 .youtube{
 
-    background-image: url(Assets/img-05.png);
+    background-image: url(assets/);
+     background-size: contain;
+    background-position: center;
+    
 }
+ 
