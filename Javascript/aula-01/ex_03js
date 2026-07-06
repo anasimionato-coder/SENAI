@@ -1,0 +1,9 @@
+console.log ("Olá,mundo!")
+let nome = "molina"
+const ano = "2026"
+
+// aqui é a saida do meu codigo
+
+console.log(nome,ano)
+
+
