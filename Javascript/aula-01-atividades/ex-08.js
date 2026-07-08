@@ -1,7 +1,5 @@
-let pontuacao = 100;
-pontuacao = 150;
-const nomejogo = "xadrez"
+let pontuacao = 100
+const jogo = "xadrez"
+pontuacao = 150
 
-console.lop (pontuacao); //150
-
-//a variavel let pontuacao  pode ser alterada normalmente, então ela deixa de ser 100 e se torna 150
+console.lop (pontuacao)
